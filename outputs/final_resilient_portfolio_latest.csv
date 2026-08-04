@@ -1,0 +1,89 @@
+date,ticker,name,asset_type,country_iso3,sector,weight %,growth weight %,base q50 %,shock q50 %,shock q05 %
+2024-12-31,INTC,Intel,stock,USA,Technology,19.5505,10.9206,49.0231,46.3030,-7.9619
+2024-12-31,SHOP,Shopify,stock,CAN,Technology,5.5375,16.9994,55.6610,38.7049,-26.4036
+2024-12-31,OR.PA,L'Oreal,stock,FRA,Consumer Staples,4.0650,1.6071,20.2796,20.2769,-4.1359
+2024-12-31,ASML,ASML,stock,NLD,Technology,3.8839,2.7449,28.3094,27.4279,-12.4100
+2024-12-31,EDEN,Denmark,country_etf,DNK,Broad Market,3.2800,2.5625,27.2782,29.2569,-15.3438
+2024-12-31,EWG,Germany,country_etf,DEU,Broad Market,3.1758,1.1553,15.3285,20.1497,-5.2996
+2024-12-31,MSFT,Microsoft,stock,USA,Technology,3.1752,2.2899,25.5908,25.7259,-13.2216
+2024-12-31,AAPL,Apple,stock,USA,Technology,2.9321,2.5321,27.0992,31.8255,-18.2204
+2024-12-31,SAP,SAP SE,stock,DEU,Technology,2.4767,0.9526,12.4353,19.7433,-7.3790
+2024-12-31,AZN,AstraZeneca,stock,GBR,Healthcare,2.2932,1.4076,18.2917,18.2917,-10.7362
+2024-12-31,0700.HK,Tencent,stock,CHN,Communication Services,2.1663,2.7820,28.5110,27.1476,-21.1277
+2024-12-31,RELIANCE.NS,Reliance,stock,IND,Energy,2.1261,1.7064,21.1795,22.2463,-15.2927
+2024-12-31,9988.HK,Alibaba,stock,CHN,Consumer Discretionary,1.7913,1.8942,22.7449,23.9952,-19.5197
+2024-12-31,MC.PA,LVMH,stock,FRA,Consumer Discretionary,1.7299,1.1403,15.1324,15.1324,-11.8050
+2024-12-31,EWL,Switzerland,country_etf,CHE,Broad Market,1.7094,0.9582,12.5224,14.7822,-10.5040
+2024-12-31,TCS.NS,Tata Consultancy,stock,IND,Technology,1.5934,1.2911,16.9958,11.5329,-12.1706
+2024-12-31,2330.TW,TSMC,stock,TWN,Technology,1.5392,1.8366,22.2817,19.4978,-19.3143
+2024-12-31,AVGO,Broadcom,stock,USA,Technology,1.4659,1.3242,17.3760,17.5990,-16.6439
+2024-12-31,KO,Coca-Cola,stock,USA,Consumer Staples,1.4096,0.8529,10.7759,9.9085,-10.0867
+2024-12-31,QCOM,Qualcomm,stock,USA,Technology,1.3635,1.3529,17.6970,16.2015,-17.1922
+2024-12-31,JNJ,Johnson & Johnson,stock,USA,Healthcare,1.3107,1.0363,13.6980,13.0646,-14.2169
+2024-12-31,EWY,South Korea,country_etf,KOR,Broad Market,1.2916,1.0931,14.4988,17.7660,-17.1884
+2024-12-31,EWD,Sweden,country_etf,SWE,Broad Market,1.2832,0.8077,9.9601,9.2124,-10.7400
+2024-12-31,SPY,USA broad market,country_etf,USA,Broad Market,1.2087,1.0637,14.0893,14.2489,-16.2196
+2024-12-31,EWA,Australia,country_etf,AUS,Broad Market,1.1901,0.7887,9.6018,10.1672,-12.1682
+2024-12-31,QQQ,USA tech,country_etf,USA,Broad Market,1.1549,0.9548,12.4698,13.0185,-15.4779
+2024-12-31,EWW,Mexico,country_etf,MEX,Broad Market,1.0662,0.7516,8.8804,14.5896,-15.6667
+2024-12-31,WMT,Walmart,stock,USA,Consumer Staples,1.0537,0.8175,10.1411,9.7963,-14.0785
+2024-12-31,INDA,India,country_etf,IND,Broad Market,0.9660,0.7646,9.1381,10.7924,-15.3777
+2024-12-31,EWO,Austria,country_etf,AUT,Broad Market,0.9419,0.6575,6.8738,13.8336,-16.1453
+2024-12-31,CBA.AX,Commonwealth Bank,stock,AUS,Financials,0.9174,0.5976,5.4405,4.8257,-11.3203
+2024-12-31,EWN,Netherlands,country_etf,NLD,Broad Market,0.7928,0.5456,4.0750,3.4961,-12.1616
+2024-12-31,PG,Procter & Gamble,stock,USA,Consumer Staples,0.7814,0.5270,3.5561,4.4501,-12.5976
+2024-12-31,EWJ,Japan,country_etf,JPN,Broad Market,0.7326,0.4113,-0.1640,2.7437,-10.8509
+2024-12-31,ULVR.L,Unilever,stock,GBR,Consumer Staples,0.7288,0.4868,2.3648,2.8491,-12.2454
+2024-12-31,EWT,Taiwan,country_etf,TWN,Broad Market,0.7101,0.5342,3.7596,6.0476,-14.9332
+2024-12-31,EWC,Canada,country_etf,CAN,Broad Market,0.7056,0.4698,1.8310,2.6539,-12.3676
+2024-12-31,AMAT,Applied Materials,stock,USA,Technology,0.6863,1.1729,15.5557,14.6157,-25.6266
+2024-12-31,RY,Royal Bank of Canada,stock,CAN,Financials,0.6796,0.6009,5.5233,5.9910,-16.4446
+2024-12-31,BHP,BHP Group,stock,AUS,Materials,0.6551,1.2276,16.2387,16.2387,-27.4761
+2024-12-31,PFE,Pfizer,stock,USA,Healthcare,0.6426,0.7090,8.0057,8.0057,-19.5337
+2024-12-31,EWQ,France,country_etf,FRA,Broad Market,0.6299,0.5524,4.2614,5.5009,-16.7085
+2024-12-31,EWU,United Kingdom,country_etf,GBR,Broad Market,0.5976,0.5274,3.5650,4.4078,-16.6041
+2024-12-31,AMX,America Movil,stock,MEX,Communication Services,0.5930,0.7621,9.0879,11.4084,-22.9810
+2024-12-31,EIRL,Ireland,country_etf,IRL,Broad Market,0.5800,0.7196,8.2264,9.5492,-21.9522
+2024-12-31,EWK,Belgium,country_etf,BEL,Broad Market,0.5776,0.5130,3.1518,4.2233,-16.8147
+2024-12-31,NVDA,NVIDIA,stock,USA,Technology,0.5578,1.5441,19.6799,19.9775,-33.4801
+2024-12-31,CAT,Caterpillar,stock,USA,Industrials,0.5024,0.9357,12.1657,12.1657,-27.3860
+2024-12-31,EZA,South Africa,country_etf,ZAF,Broad Market,0.4497,0.6043,5.6077,7.3705,-23.3707
+2024-12-31,TTE,TotalEnergies,stock,FRA,Energy,0.4439,0.6450,6.5853,7.5198,-24.1284
+2024-12-31,EIDO,Indonesia,country_etf,IDN,Broad Market,0.4209,0.6339,6.3258,8.1432,-25.1088
+2024-12-31,CVX,Chevron,stock,USA,Energy,0.4109,0.5256,3.5160,4.3219,-22.1528
+2024-12-31,XOM,ExxonMobil,stock,USA,Energy,0.4072,0.4660,1.7106,2.6046,-20.5278
+2024-12-31,INFY,Infosys,stock,IND,Technology,0.3923,0.6054,5.6344,-0.7052,-21.3954
+2024-12-31,EWH,Hong Kong,country_etf,HKG,Broad Market,0.3876,0.6661,7.0684,4.4257,-24.8582
+2024-12-31,MU,Micron,stock,USA,Technology,0.3807,1.2413,16.4052,12.9088,-34.0361
+2024-12-31,2317.TW,Hon Hai (Foxconn),stock,TWN,Technology,0.3790,0.8791,11.2301,11.9893,-31.0576
+2024-12-31,SHEL,Shell,stock,GBR,Energy,0.3706,0.5115,3.1057,4.7824,-23.7291
+2024-12-31,EWZ,Brazil,country_etf,BRA,Broad Market,0.3608,1.1618,15.4132,15.5405,-35.6602
+2024-12-31,AIR.PA,Airbus,stock,FRA,Industrials,0.3604,1.2506,16.5180,16.5180,-36.7191
+2024-12-31,JPM,JPMorgan,stock,USA,Financials,0.3171,0.5357,3.7994,5.0465,-26.5442
+2024-12-31,EPHE,Philippines,country_etf,PHL,Broad Market,0.3052,0.4910,2.4931,3.8223,-25.8545
+2024-12-31,GLD,Gold,commodity,,Precious Metals,0.2975,0.3745,-1.5674,-3.3742,-20.6079
+2024-12-31,ITUB,Itau Unibanco,stock,BRA,Financials,0.2906,1.1267,14.9523,15.4021,-38.6102
+2024-12-31,AMD,Advanced Micro Devices,stock,USA,Technology,0.2800,1.7702,21.7293,21.3374,-45.5216
+2024-12-31,BA,Boeing,stock,USA,Industrials,0.2572,0.9323,12.1119,12.1119,-37.3724
+2024-12-31,HSBA.L,HSBC,stock,GBR,Financials,0.2517,0.3315,-3.3976,0.3936,-24.0854
+2024-12-31,THD,Thailand,country_etf,THA,Broad Market,0.2338,0.3509,-2.5458,0.3737,-25.6094
+2024-12-31,EPOL,Poland,country_etf,POL,Broad Market,0.2158,0.2990,-4.9457,-2.7897,-24.0263
+2024-12-31,EWP,Spain,country_etf,ESP,Broad Market,0.2073,0.3110,-4.3576,-3.0129,-24.8090
+2024-12-31,BAC,Bank of America,stock,USA,Financials,0.2049,0.4001,-0.5780,0.4422,-28.6014
+2024-12-31,EWM,Malaysia,country_etf,MYS,Broad Market,0.1644,0.2321,-8.7431,-6.3180,-24.4487
+2024-12-31,MCHI,China broad,country_etf,CHN,Broad Market,0.1484,0.2304,-8.8585,-8.3795,-24.8886
+2024-12-31,SLV,Silver,commodity,,Precious Metals,0.1447,0.4477,1.1080,-1.8079,-33.5418
+2024-12-31,EWI,Italy,country_etf,ITA,Broad Market,0.1417,0.1889,-11.8368,-7.2693,-24.6561
+2024-12-31,EWS,Singapore,country_etf,SGP,Broad Market,0.1353,0.1704,-13.3817,-10.0960,-23.1559
+2024-12-31,ECH,Chile,country_etf,CHL,Broad Market,0.1235,0.2047,-10.6327,-9.4155,-26.2405
+2024-12-31,CPER,Copper,commodity,,Industrial Metals,0.1197,0.3364,-3.1763,-3.6450,-33.3283
+2024-12-31,VALE,Vale,stock,BRA,Materials,0.1110,0.4776,2.0786,2.0786,-39.9523
+2024-12-31,FXI,China large cap,country_etf,CHN,Broad Market,0.1092,0.2057,-10.5580,-9.8521,-27.9138
+2024-12-31,DBA,Agriculture,commodity,,Agriculture,0.0937,0.1834,-12.2764,-11.1597,-28.6871
+2024-12-31,1398.HK,ICBC,stock,CHN,Financials,0.0812,0.1719,-13.2487,-10.4122,-30.7252
+2024-12-31,ARGT,Argentina,country_etf,ARG,Broad Market,0.0559,0.1204,-18.5870,-17.4817,-30.1355
+2024-12-31,TUR,Turkey,country_etf,TUR,Broad Market,0.0424,0.1802,-12.5432,-12.1598,-39.9501
+2024-12-31,USO,WTI Oil,commodity,,Energy,0.0404,0.3872,-1.0704,-0.8446,-52.0820
+2024-12-31,SHELL.AS,Shell (NL),stock,NLD,Energy,0.0226,0.0980,-21.6841,-19.4457,-41.2078
+2024-12-31,UNG,Natural Gas,commodity,,Energy,0.0205,0.1788,-12.6590,-12.6590,-50.5700
+2024-12-31,PBR,Petrobras,stock,BRA,Energy,0.0183,0.1897,-11.7752,-12.2413,-52.9231
