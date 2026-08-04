@@ -35,7 +35,6 @@ The point is not to claim unconditional outperformance. The point is to show a t
 ## Files
 
 - `technical_report.html` - final exported report with methods, outputs and figures
-- `index.html` - redirects to the report when GitHub Pages is enabled
 - `README.md` - short recruiter-facing overview
 
 ## Limitations
