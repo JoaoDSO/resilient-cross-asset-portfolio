@@ -32,6 +32,14 @@ In the test window, the resilient portfolio gave up realised return compared wit
 
 The point is not to claim unconditional outperformance. The point is to show a transparent decision-support workflow for stress-aware allocation.
 
+## Key Findings In The Report
+
+- [Data universe](https://joaodso.github.io/resilient-cross-asset-portfolio/#2.-Data): 104 instruments across stocks, country ETFs and commodities.
+- [Disruption scenarios](https://joaodso.github.io/resilient-cross-asset-portfolio/#7.-Counterfactual-disruption-scenarios): Taiwan Strait / TSMC supply shock plus an emerging-market dollar-squeeze comparison.
+- [Portfolio allocation](https://joaodso.github.io/resilient-cross-asset-portfolio/#8.-Resilient-portfolio-score-and-allocation): weights built from baseline return, stressed return and downside exposure.
+- [Model interpretation](https://joaodso.github.io/resilient-cross-asset-portfolio/#9.-Attribution-and-contrastive-view): SHAP-based explanation of which features drive the stressed forecasts.
+- [Conclusions](https://joaodso.github.io/resilient-cross-asset-portfolio/#12.-Conclusions): the result is a resilience trade-off, not a claim of investment outperformance.
+
 ## Files
 
 - `index.html` - final exported report with methods, outputs and figures
