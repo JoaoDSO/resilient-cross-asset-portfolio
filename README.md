@@ -6,6 +6,29 @@ The final deliverable is the exported HTML report:
 
 **View as a webpage:** https://joaodso.github.io/resilient-cross-asset-portfolio/
 
+## Main Result
+
+In the test window, the resilient portfolio gave up realised return compared with a growth-only benchmark, but improved the Taiwan-scenario downside forecast:
+
+- Realised forward return: 25.6% resilient vs 34.5% growth benchmark
+- Taiwan-scenario 5% tail forecast: -16.2% resilient vs -21.7% growth benchmark
+
+The point is not to claim unconditional outperformance. The point is to show a transparent decision-support workflow for stress-aware allocation.
+
+## Key Figures
+
+![Country-level scenario impact under Taiwan and EM squeeze scenarios](figures/scenario_impact_by_country.png)
+
+The scenario analysis compares country-level shifts in median predicted returns under the Taiwan Strait / TSMC shock and an emerging-market dollar-squeeze scenario.
+
+![Baseline prediction uncertainty with 5-95 percent band](figures/quantile_prediction_band.png)
+
+The quantile model shows uncertainty around the median return forecast and compares it with realised forward 12-month returns.
+
+![Global SHAP feature importance for forward 12-month return model](figures/shap_global_importance.png)
+
+The SHAP summary highlights the main drivers used by the model, including inflation, momentum, GDP, governance effectiveness and political stability.
+
 ## Project Idea
 
 Most portfolios are built around expected return in normal conditions. This project asks a more practical risk question:
@@ -23,26 +46,17 @@ The main scenario is a Taiwan Strait / TSMC supply shock.
 - Portfolio weighting based on baseline return, stressed return and downside exposure
 - SHAP-based interpretation of model drivers
 
-## Main Result
-
-In the test window, the resilient portfolio gave up realised return compared with a growth-only benchmark, but improved the Taiwan-scenario downside forecast:
-
-- Realised forward return: 25.6% resilient vs 34.5% growth benchmark
-- Taiwan-scenario 5% tail forecast: -16.2% resilient vs -21.7% growth benchmark
-
-The point is not to claim unconditional outperformance. The point is to show a transparent decision-support workflow for stress-aware allocation.
-
-## Key Findings In The Report
+## Report Highlights
 
 - [Data universe](https://joaodso.github.io/resilient-cross-asset-portfolio/#2.-Data): 104 instruments across stocks, country ETFs and commodities.
 - [Disruption scenarios](https://joaodso.github.io/resilient-cross-asset-portfolio/#7.-Counterfactual-disruption-scenarios): Taiwan Strait / TSMC supply shock plus an emerging-market dollar-squeeze comparison.
 - [Portfolio allocation](https://joaodso.github.io/resilient-cross-asset-portfolio/#8.-Resilient-portfolio-score-and-allocation): weights built from baseline return, stressed return and downside exposure.
-- [Model interpretation](https://joaodso.github.io/resilient-cross-asset-portfolio/#9.-Attribution-and-contrastive-view): SHAP-based explanation of which features drive the stressed forecasts.
 - [Conclusions](https://joaodso.github.io/resilient-cross-asset-portfolio/#12.-Conclusions): the result is a resilience trade-off, not a claim of investment outperformance.
 
 ## Files
 
 - `index.html` - final exported report with methods, outputs and figures
+- `figures/` - three selected charts used for the GitHub preview
 - `README.md` - short recruiter-facing overview
 
 ## Limitations
