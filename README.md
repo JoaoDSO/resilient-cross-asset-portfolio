@@ -4,7 +4,7 @@ This is a DTU Advanced Business Analytics group project on stress-aware portfoli
 
 The final deliverable is the exported HTML report:
 
-**[Open the technical report](technical_report.html)**
+**View as a webpage:** https://joaodso.github.io/resilient-cross-asset-portfolio/
 
 ## Project Idea
 
@@ -34,7 +34,7 @@ The point is not to claim unconditional outperformance. The point is to show a t
 
 ## Files
 
-- `technical_report.html` - final exported report with methods, outputs and figures
+- `index.html` - final exported report with methods, outputs and figures
 - `README.md` - short recruiter-facing overview
 
 ## Limitations
